@@ -5,6 +5,6 @@ Convolutional neurtal networks used
 
 ![image](https://github.com/user-attachments/assets/f3782f22-ff14-494c-9308-efa187af126a)
 
-Sample results
+Sample result
 
 ![image](https://github.com/user-attachments/assets/e98f2268-55d5-4299-b555-42a4cd7ee52b)
