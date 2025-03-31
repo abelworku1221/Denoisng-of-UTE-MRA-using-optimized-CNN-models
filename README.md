@@ -8,3 +8,15 @@ Convolutional neurtal networks used
 Sample result
 
 ![image](https://github.com/user-attachments/assets/e98f2268-55d5-4299-b555-42a4cd7ee52b)
+
+
+Steps to use the repository
+
+step1. download the data provided at:  and place it in side a folder "Data/Training/" and "Data/Validation/". check the path in the dataloader.py file and confirm if it is okay.
+
+Step2. Open the "Train_Denoising_models.py" file and import any model among 5 modesl created inside "Models/" folder. you can change training parameters such as batch and number of epoches.
+
+step3. After training. open the "testing denoisng.py" file and read the corresponding trained file and run the script. it will generate the result files in the folder "Result/..." depending on which model used and the imput data name.
+
+lastly, if you want to cite our work, please cite as follows:
+
